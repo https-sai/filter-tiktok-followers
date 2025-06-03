@@ -1,4 +1,4 @@
-# Manicide
+# Tiktok Follower Filter
 
 A Python project for isolating TikTok followers based on keywords.
 
@@ -7,7 +7,7 @@ A Python project for isolating TikTok followers based on keywords.
 1. Clone the repository:
 
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/https-sai/filter-tiktok-followers.git]
 cd manicide
 ```
 
